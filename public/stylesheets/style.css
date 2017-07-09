@@ -1,0 +1,33 @@
+.calc{
+  border: 1px solid green;
+  display: flex;
+  flex: 1 1 33%;
+}
+
+.queue{
+  border: 1px solid blue;
+  flex: 1 1 33%;
+}
+.result{
+  border: 1px solid red;
+  flex: 1 1 33%;
+}
+.ops > img{
+	display:flex;
+  padding-bottom: 4px;
+}
+.ops{
+flex: 1 1 33%;
+}
+
+.numberGrid{
+  flex: 1 1 33%;
+
+}
+.numberGrid >div {
+    width:30%;
+}
+
+.main{
+display:flex;
+}
